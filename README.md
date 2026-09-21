@@ -19,3 +19,6 @@ Circuit_generating_functions.ipynb has the 3 functions used to generate the circ
 
 
 Stim_circuit_simulation(output_cleared).ipynb is the full file for the project and contains everything including those not included in the report (output has to be cleared to upload here, otherwise file size exceeds 25MB and can't upload).
+
+
+The full dissertation is also avaliable.
